@@ -4,6 +4,26 @@
   "html.hover.references": false,
   "html.hover.documentation": false,
   "editor.glyphMargin": false,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#cf90a2",
+    "activityBar.background": "#cf90a2",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#daecd2",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#cf90a2",
+    "statusBar.background": "#c06c84",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#ae4b67",
+    "statusBarItem.remoteBackground": "#c06c84",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#c06c84",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#c06c8499",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#C06C84"
   // Use 3 when recording demos
   //"window.zoomLevel": 3,
 }
